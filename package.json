@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "serve-static": "^4.14.1",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
